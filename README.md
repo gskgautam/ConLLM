@@ -1,4 +1,4 @@
-# ConLLM: Contrastive + LLM-based Deepfake Detection System
+# ConLLM
 
 ## Overview
 This project implements **ConLLM**, a state-of-the-art deepfake detection system that leverages contrastive learning and large language models (LLMs) for robust detection across audio, video, and audio-visual modalities. The pipeline is designed for research-grade experiments using full, real-world datasets.
