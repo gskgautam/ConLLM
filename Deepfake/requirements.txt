@@ -1,0 +1,10 @@
+torch
+transformers
+torchaudio
+tqdm
+numpy
+scikit-learn
+decord
+torchvision
+ptflops
+opencv-python 
