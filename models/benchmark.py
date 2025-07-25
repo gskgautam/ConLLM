@@ -4,7 +4,6 @@ import torch
 import numpy as np
 from models.llm_refinement import LLMRefiner
 from transformers import GPT2Model, GPT2Config
-# For LLaMA-2, Falcon, and GPT-3.5, use HuggingFace or API stubs as placeholders
 try:
     from ptflops import get_model_complexity_info
     PT_FLOPS = True
